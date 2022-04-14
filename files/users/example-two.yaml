@@ -1,0 +1,6 @@
+---
+ssh_key: "ssh-rsa BBBB3NzaC1yc2EAAAADAQABAAABgQDmZQWu1bowq4wlN+gaO+nyyerrmagArQXSI493mFTD0Ldyrq0bwzPWS3v6B9LqX0KY3AgdLm7kGdtKwyLHLWMVUYHJcvP2QBaIm3cOc/dihR1HRVfg1v+NJdGmy1QTmgjhNFxjbXN2gaRNOLHIsPoA9hcuHQuqcAUTWa9Ara9ARqd5Pip9a89cCcwOtsXVP6Q5Maer13puouF/wa9VJOHTFkrx7xkca5cLsvoO6qJYq+04LDbST18wQgzkWHMltvERho26YsEVmlUoVH80zN/vCbTnFw17cd3+F4KowO7IZ9DvnDWp2PGZRw2I3+f00xEhzzmJcZSYXkHjsZ2T0tq7Bavv1qIDj7eF2t+N7nCbHVHtIM13/v1wkfmLOYZ09LthWQ0B0pFjyj9TPSD+qq/U3myk2fKslvxEXFFRP9JCCyP7jhKU9FLNCvAQ2YLPJOl27CBs2sbOZAR1bgzBVE5mwzgCGaznS2jRwBgbeMVvtVglw2SHZHjkumIPYCKmgxk= Josh@Joshs-MacBook-Pro.local"
+home_directory: "landing\example-2" #don't include the \
+role: "example-s3-sftp-role"
+bucket_name: "my-example-bucket-1234"
+owner: "Bob Smith"
